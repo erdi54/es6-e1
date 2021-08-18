@@ -1,0 +1,12 @@
+.idea
+.DS_Store
+node_modules
+src/.env.dev
+build/*
+!build/.gitkeep
+data/*
+!data/.gitkeep
+.env.dist
+.env.dev
+.env.docker
+public/channels/*
